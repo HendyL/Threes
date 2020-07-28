@@ -12,6 +12,8 @@ To use this project, you must download the package `jeu_threes`. Then, you can s
 
 \* _We recommand to use an IDE or a terminal that support UTF-8 because the game use special chars to display texts using colors_.
 
-_Note: This project use the librairy termcolor to works so you need to install it before using the game._
+_Note: This project use the librairy termcolor so you need to install it before using the game._
 
 ## Screens of the game
+
+[game_screen_1](screens/game_screen_1.PNG) [game_screen_2](screens/game_screen_2.PNG) [game_menu](screens/game_menu.PNG)
