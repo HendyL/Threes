@@ -16,4 +16,6 @@ _Note: This project use the librairy termcolor so you need to install it before 
 
 ## Screens of the game
 
-[game_screen_1](screens/game_example_1.PNG) [game_screen_2](screens/game_example_2.PNG) [game_menu](screens/game_menu.PNG)
+<img src="screens/game_example_1.PNG" alt="game screen 1"/>
+[game_screen_2](screens/game_example_2.PNG) 
+[game_menu](screens/game_menu.PNG)
