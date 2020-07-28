@@ -8,6 +8,6 @@ This project was completed in my first academic year. It was a directed project 
 
 ## How to use ?
 
-To use this project, you must download the package 'jeu_threes'. Then, you can start the game by starting the 'app.py' by using an IDE* or a command like 'python3 jeu_threes/app.py'.
+To use this project, you must download the package 'jeu_threes'. Then, you can start the game by starting the 'app.py' by using an IDE\* or a command like 'python3 jeu_threes/app.py'.
 
-* _We recommand to use an IDE or a terminal that support UTF-8 because the game use special chars to display texts using colors_.
+\* _We recommand to use an IDE or a terminal that support UTF-8 because the game use special chars to display texts using colors_.
